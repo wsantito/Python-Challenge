@@ -4,14 +4,8 @@ import math
 from collections import Counter  
 
 Count = 0
-Suma = 0
-Avg = 0
 Cand=[]
-Row1 = 0
-CountA = 0
-CountB = 0
-CountC = 0
-CountD = 0
+CountA = CountB = CountC = CountD = 0
 
 PyPoll_csv = os.path.join("Tareas","Tarea 3 Python-Challenge","PyPoll","Resources","PyPoll_data.csv")
 

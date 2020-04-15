@@ -9,7 +9,7 @@ Avg = 0
 data=[]
 Row1 = 0
 
-PyBank_csv = os.path.join("Tareas","Tarea 3 Python-Challenge","PyBank","Resources","PyBank_data.csv")
+PyBank_csv = os.path.join("Tareas","Tarea 3 Python-Challenge","Python-Challenge","Resources","PyBank_data.csv")
 
 # with open (PyBank_csv) as csvfile:
 #         csvreader = csv.reader(csvfile,delimiter=",")
