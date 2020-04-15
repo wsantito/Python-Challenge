@@ -1,0 +1,1 @@
+Hi TAs, just for your info on both files I`ve found lines that were not usefull data for the analisis like in case of PyBank lines with "-----" or " >>>" so on. In case of PyPoll There was duplicated data it was reviewed and confirmed it was a duplicated data so the desition made by me in all the cases was to drop/eliminate those lines.
